@@ -1,0 +1,11 @@
+{
+  "sheet_id": "1HH80HQuL4ebRsjv3LMOY4l2BpV3B1ROwm-ng29RRVMY",
+  "sheet_name": "Sheet1",
+  "headers": ["Title", "Category", "Tags", "Content", "Source", "Author", "Date Added", "Unique ID", "Notes"],
+  "discord_webhook_results": "",
+  "discord_webhook_token_alerts": "",
+  "discord_thread_extraction": "1470041386299560100",
+  "discord_thread_token_safety": "1470041406172168417",
+  "max_token_budget": 50000,
+  "token_warning_threshold": 0.8
+}
